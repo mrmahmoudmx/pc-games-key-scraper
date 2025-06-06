@@ -1,0 +1,38 @@
+{
+  "status_code": 200,
+  "headers": {
+    "Date": "Thu, 05 Jun 2025 22:29:53 GMT",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Server": "cloudflare",
+    "Nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "Cf-Ray": "94b31c7f0d344373-EWR",
+    "X-Powered-By": "PHP/8.2.28",
+    "Content-Encoding": "br",
+    "Link": "<https://pcgameskey.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "Vary": "Accept-Encoding",
+    "Platform": "hostinger",
+    "Panel": "hpanel",
+    "Content-Security-Policy": "upgrade-insecure-requests",
+    "X-Turbo-Charged-By": "LiteSpeed",
+    "Cf-Cache-Status": "DYNAMIC",
+    "Server-Timing": "cfCacheStatus;desc=\"DYNAMIC\", cfL4;desc=\"?proto=TCP&rtt=1273&min_rtt=1242&rtt_var=488&sent=5&recv=6&lost=0&retrans=0&sent_bytes=2847&recv_bytes=1007&delivery_rate=3304347&cwnd=98&unsent_bytes=0&cid=96e2a5e57830c9fb&ts=652&x=0\"",
+    "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=Drk5mARO0V8VPRKFv4UDOPe6jzgXpEzgTS3sHqAe1ztj46fE%2FrsWuzS%2Fh2q2ufs25k7ZXWdaIA23M8kVifbMxpDMFx%2FFmCYOJZewgV3y4qfKhE9PdaTlnMDueONrssnwXQ%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "Set-Cookie": "aelia_cs_selected_currency=USD; Secure; Path=/; Max-Age=86400; Expires=Fri, 06 Jun 2025 22:29:53 GMT",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "selector_results": {
+    "li.product": 0,
+    "div.product": 0,
+    "article.product": 0,
+    ".woocommerce-loop-product": 0,
+    ".products": 0,
+    "ul.products": 0,
+    "div.products": 0,
+    ".woocommerce": 0,
+    "main": 0,
+    "#main": 0,
+    ".site-main": 0
+  }
+}
